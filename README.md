@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![271937689-8633b6f6-0952-4449-b238-7195a641715c](https://github.com/Sudharsanram/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393980/667f44e7-12a0-49dc-8dcc-823e4c71296c)
+![282307406-34b83ece-8662-46f9-a9ae-f7a82b62ecde](https://github.com/Sudharsanram/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393980/84f01303-ca61-43f1-b395-b13876e146db)
+
 
 
 ### Name: SUDHARSAN RAM M
